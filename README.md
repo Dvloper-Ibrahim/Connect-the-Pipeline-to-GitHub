@@ -1,1 +1,1 @@
-# Connect the Pipeline to GitHub
+# Connect the Pipeline to GitHub.
